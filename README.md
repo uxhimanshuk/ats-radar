@@ -195,4 +195,4 @@ and your collected history are yours.
 
 ---
 
-Built by [Himanshu Kalra](https://uxrhimanshu.com). MIT licensed.
+Built by [Himanshu Kalra](https://himanshukalra.com). MIT licensed.
